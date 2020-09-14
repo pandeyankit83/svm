@@ -1,8 +1,6 @@
 == Support Vector Machines in Python ==
 
-Author: Jeremy Stober
-Contact: stober@gmail.com
-Version: 0.1
+
 
 This is a simple support vector machine implementation based on the
 primal form of SVMs for linearly separable problems, and problems that
